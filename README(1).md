@@ -1,13 +1,14 @@
 # Final-Project
-A site for viewing and sharing places to skateboard in Regina
+Regina Skate
+A Blog style site for viewing and sharing places to skateboard in Regina
 
 Navigation
 
 links
 
-View Posts
-Add Posts
-Sign Up / In
+/View Posts
+/Add Posts
+/Sign Up / In
 
    <nav>
    <a href="blank.html">Blank</a>
